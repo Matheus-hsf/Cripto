@@ -1,0 +1,20 @@
+C:\Users\Pichau\Desktop\AT\Cripto1.0\Cripto1.0\bin\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.0\Cripto1.0\bin\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.0\Cripto1.0\obj\x86\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.0\Cripto1.0\obj\x86\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.0\Cripto1.0\obj\x86\Debug\Cripto1.0.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\AT\Cripto1.5\Cripto1.0\obj\x86\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.5\Cripto1.0\obj\x86\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.5\Cripto1.0\bin\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.5\Cripto1.0\bin\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.5\Cripto1.0\obj\x86\Debug\Cripto1.0.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\AT\Cripto1.8\Cripto1.0\obj\x86\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.8\Cripto1.0\obj\x86\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.8\Cripto1.0\bin\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.8\Cripto1.0\bin\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.8\Cripto1.0\obj\x86\Debug\Cripto1.0.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\AT\Cripto1.8 - Pronto\Cripto1.0\obj\x86\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.8 - Pronto\Cripto1.0\obj\x86\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.8 - Pronto\Cripto1.0\bin\Debug\Cripto1.0.exe
+C:\Users\Pichau\Desktop\AT\Cripto1.8 - Pronto\Cripto1.0\bin\Debug\Cripto1.0.pdb
+C:\Users\Pichau\Desktop\AT\Cripto1.8 - Pronto\Cripto1.0\obj\x86\Debug\Cripto1.0.csprojResolveAssemblyReference.cache
